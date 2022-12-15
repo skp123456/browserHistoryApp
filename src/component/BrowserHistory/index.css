@@ -1,0 +1,55 @@
+.card-container {
+  background-color: #ffffff;
+  max-width: 800px;
+  margin: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time {
+  color: #0c1727;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 600;
+  margin: 16px;
+}
+
+.item-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo {
+  height: 25px;
+  width: 25px;
+  margin-left: 16px;
+}
+
+.title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.domain-url {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 5px;
+  min-width: 200px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}
+
+.delete-image {
+  height: 20px;
+  width: 20px;
+}
